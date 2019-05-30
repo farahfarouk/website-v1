@@ -585,31 +585,31 @@ input, select, textarea {
 			}
 
 				#header nav li:nth-child(1) {
-					-moz-animation-delay: 1s;
-					-webkit-animation-delay: 1s;
-					-ms-animation-delay: 1s;
-					animation-delay: 1s;
+					-moz-animation-delay: 0s;
+					-webkit-animation-delay: 0s;
+					-ms-animation-delay: 0s;
+					animation-delay: 0s;
 				}
 
 				#header nav li:nth-child(2) {
-					-moz-animation-delay: 1s;
-					-webkit-animation-delay: 1s;
-					-ms-animation-delay: 1s;
-					animation-delay: 1s;
+					-moz-animation-delay: 0s;
+					-webkit-animation-delay: 0s;
+					-ms-animation-delay: 0s;
+					animation-delay: 0s;
 				}
 
 				#header nav li:nth-child(3) {
-					-moz-animation-delay: 1.2s;
-					-webkit-animation-delay: 1.2s;
-					-ms-animation-delay: 1.2s;
-					animation-delay: 1.2s;
+					-moz-animation-delay: 0s;
+					-webkit-animation-delay: 0s;
+					-ms-animation-delay: 0s;
+					animation-delay: 0s;
 				}
 
 				#header nav li:nth-child(4) {
-					-moz-animation-delay: 1s;
-					-webkit-animation-delay: 1s;
-					-ms-animation-delay: 1s;
-					animation-delay: 1s;
+					-moz-animation-delay: 0.8s;
+					-webkit-animation-delay: 0.8s;
+					-ms-animation-delay: 0.8s;
+					animation-delay: 0.8s;
 				}
 
 				#header nav li:nth-child(5) {
@@ -620,17 +620,17 @@ input, select, textarea {
 				}
 
 				#header nav li:nth-child(6) {
-					-moz-animation-delay: 1s;
-					-webkit-animation-delay: 1s;
-					-ms-animation-delay: 1s;
-					animation-delay: 1s;
+					-moz-animation-delay: 1.2s;
+					-webkit-animation-delay: 1.2s;
+					-ms-animation-delay: 1.2s;
+					animation-delay: 1.2s;
 				}
 
 				#header nav li:nth-child(7) {
-					-moz-animation-delay: 4s;
-					-webkit-animation-delay: 4s;
-					-ms-animation-delay: 4s;
-					animation-delay: 4s;
+					-moz-animation-delay: 1.4s;
+					-webkit-animation-delay: 1.4s;
+					-ms-animation-delay: 1.4s;
+					animation-delay: 1.4s;
 				}
 
 				#header nav li:nth-child(8) {
