@@ -1,12 +1,6 @@
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,900");
 @import url("font-awesome.min.css");
 
-/*
-	Aerial by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-*/
-
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
 pre, a, abbr, acronym, address, big, cite,
@@ -214,7 +208,7 @@ input, select, textarea {
 		transform: translate3d(0,0,0);
 	/* Set your background with this */
 
-		background: #348cb2 url("images/bg.jpg") bottom left;
+		background: #000000 url("images/bg.jpg") bottom left;
 		background-repeat: repeat-x;
 		height: 100%;
 		left: 0;
@@ -581,31 +575,31 @@ input, select, textarea {
 			}
 
 				#header nav li:nth-child(1) {
-					-moz-animation-delay: 2.5s;
-					-webkit-animation-delay: 2.5s;
-					-ms-animation-delay: 2.5s;
-					animation-delay: 2.5s;
+					-moz-animation-delay: 0s;
+					-webkit-animation-delay: 0s;
+					-ms-animation-delay: 0s;
+					animation-delay: 0s;
 				}
 
 				#header nav li:nth-child(2) {
-					-moz-animation-delay: 2.75s;
-					-webkit-animation-delay: 2.75s;
-					-ms-animation-delay: 2.75s;
-					animation-delay: 2.75s;
+					-moz-animation-delay: 0s;
+					-webkit-animation-delay: 0s;
+					-ms-animation-delay: 0s;
+					animation-delay: 0s;
 				}
 
 				#header nav li:nth-child(3) {
-					-moz-animation-delay: 3s;
-					-webkit-animation-delay: 3s;
-					-ms-animation-delay: 3s;
-					animation-delay: 3s;
+					-moz-animation-delay: 0s;
+					-webkit-animation-delay: 0s;
+					-ms-animation-delay: 0s;
+					animation-delay: 0s;
 				}
 
 				#header nav li:nth-child(4) {
-					-moz-animation-delay: 3.25s;
-					-webkit-animation-delay: 3.25s;
-					-ms-animation-delay: 3.25s;
-					animation-delay: 3.25s;
+					-moz-animation-delay: 0s;
+					-webkit-animation-delay: 0s;
+					-ms-animation-delay: 0s;
+					animation-delay: 0s;
 				}
 
 				#header nav li:nth-child(5) {
